@@ -25,11 +25,15 @@ python src/main.py
 
 ## Output Example
 
-![Rainfall Graph](output/rainfall_analysis.png)
+ ![Rainfall Graph](output/rainfall_analysis.png)
+
+                                
 ![Tweet Graph](output/tweet_detection.png)
 
+                                
 ![Disaster_Report](output/disaster_report.png)
 
+                                
 ![Terminal_output](output/terminal_output.png)
 
 
