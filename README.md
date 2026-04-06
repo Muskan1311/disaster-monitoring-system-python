@@ -1,3 +1,4 @@
+
 # Disaster Monitoring System (Python)
 
 ## Overview
@@ -21,3 +22,7 @@ pip install -r requirements.txt
 Run:
 
 python src/main.py
+=======
+# disaster-monitoring-system-python
+Python-based disaster monitoring system with flood risk analysis and disaster tweet detection.
+
