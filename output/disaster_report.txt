@@ -1,0 +1,15 @@
+
+DISASTER MONITORING REPORT
+--------------------------
+
+Flood Risk Summary
+High Risk Districts: Saharsa
+Moderate Risk Districts: Supaul
+
+Tweet Alert Summary
+Total Tweets Analyzed: 7
+Disaster Alerts Detected: 4
+Normal Tweets: 3
+
+Conclusion
+Flood risk detected in some districts. Continuous monitoring recommended.
