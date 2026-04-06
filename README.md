@@ -28,9 +28,9 @@ python src/main.py
 ![Rainfall Graph](output/rainfall_analysis.png)
 ![Tweet Graph](output/tweet_detection.png)
 
-![Disaster_Report](<img width="738" height="355" alt="Screenshot 2026-04-06 181558" src="https://github.com/user-attachments/assets/f31cac71-4ea6-4b42-801f-d2b895c465a5" />)
+![Disaster_Report](output/disaster_report.png)
 
-![Terminal_output](<img width="700" height="599" alt="Screenshot 2026-04-06 164919" src="https://github.com/user-attachments/assets/989430d4-1589-4e20-a224-6527c0abc311" />)
+![Terminal_output](output/terminal_output.png)
 
 
 
